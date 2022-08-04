@@ -1,3 +1,5 @@
+# 2407 유정은
+
 import random
 def func_lotto():
     li = list()

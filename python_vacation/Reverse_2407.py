@@ -1,3 +1,5 @@
+# 2407 유정은
+
 s = input("영문자 입력 : ")
 li = []
 for i in range(len(s)):

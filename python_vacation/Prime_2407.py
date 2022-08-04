@@ -1,3 +1,5 @@
+# 2407 유정은
+
 def isPrimeNumber(num):
     li = []
     count = 0

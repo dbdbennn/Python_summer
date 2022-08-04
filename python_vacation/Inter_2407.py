@@ -1,3 +1,5 @@
+# 2407 유정은
+
 def intersect(s1,s2):
     func_li = list()
 
